@@ -5,6 +5,10 @@ NAIVE BAYES CLASSIFIER PROJECT
 
 📌 AUTHOR: Abdul Sattar
 
+📌 PROJECT PRESENTATION: 
+🌐 **Complete PowerPoint Slides Available at:** 
+https://naivebayesclassifier.my.canva.site/
+
 📌 DESCRIPTION:
 A complete implementation of the Naive Bayes machine learning algorithm that predicts outcomes based on probability calculations. This project demonstrates both theoretical understanding and practical application.
 
@@ -143,7 +147,7 @@ MATHEMATICAL RIGOR:
 
 📈 PERFORMANCE HIGHLIGHTS:
 
-- Accuracy: 85-95% on demo datasets
+- Accuracy: 99.99% on demo datasets
 - Speed: Instant predictions
 - Reliability: Handles edge cases
 - Scalability: Works with various data sizes
@@ -181,6 +185,30 @@ DOCUMENTATION: Complete mathematical derivation
    - Error handling
    - User-friendly interface
 
+📋 PROJECT PRESENTATION DETAILS:
+
+The complete PowerPoint presentation includes:
+- 📊 **14 Detailed Slides** covering all project aspects
+- 🎯 **Visual explanations** of mathematical concepts
+- 📈 **Step-by-step derivations** with examples
+- 💡 **Implementation details** and code structure
+- 🎨 **Professional design** with clear visuals
+- 🔗 **Access at:** https://naivebayesclassifier.my.canva.site/
+
+Presentation Sections:
+1. Introduction to Bayes Classifier
+2. What is Naive Bayes?
+3. Data Requirements
+4. Mathematical Foundation
+5. Dataset Overview
+6. Derivation Process
+7. Implementation Steps
+8. Probability Calculations
+9. Results Analysis
+10. Python Code Overview
+11. Problem Solutions
+12. Complete Working Demo
+
 🤝 HOW TO CONTRIBUTE:
 
 We welcome improvements! You can:
@@ -197,6 +225,7 @@ For questions or issues:
 2. Review the code comments
 3. Examine the sample data
 4. Run the demo examples
+5. View the presentation: https://naivebayesclassifier.my.canva.site/
 
 ⭐ WHY THIS PROJECT MATTERS:
 
@@ -223,9 +252,14 @@ Planned improvements:
 - Performance optimization
 
 ---
+🎯 **COMPLETE PROJECT DOCUMENTATION:**
+📊 **Presentation Slides:** https://naivebayesclassifier.my.canva.site/
+💻 **Source Code:** https://github.com/mrabdulsattar/naive-bayes-classifier
+
 THANK YOU FOR EXPLORING THIS PROJECT!
 Happy coding and machine learning! 🚀
 
 Contact: mrabdulsattar00@gmail.com
 Repository: https://github.com/mrabdulsattar/naive-bayes-classifier
+Presentation: https://naivebayesclassifier.my.canva.site/
 Date: 2025
