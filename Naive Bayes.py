@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import math as m
 import matplotlib.pyplot as plt
-data = pd.read_csv(r"C:\Users\mrabd\OneDrive\Desktop\Statistics and Probability\Naive Bayes Classifier\data2.csv")
+data = pd.read_csv(r"data1.csv")
 r, c = data.shape
 
 # ----------------functions----------------------
@@ -80,4 +80,5 @@ inputs = take_input()
 pe = prob_of_e()
 cond_prob = conditional_prob()
 scores = final_result()
+
 pie_graph(scores)
