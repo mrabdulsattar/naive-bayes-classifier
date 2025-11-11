@@ -3,7 +3,7 @@ NAIVE BAYES CLASSIFIER PROJECT
 
 📌 PROJECT TITLE: Naive Bayes Classifier - Complete Machine Learning Implementation
 
-📌 AUTHOR: Abdul Sattar
+📌 AUTHOR: Abdul Sattar and Mushtaque Ali
 
 📌 PROJECT PRESENTATION: 
 🌐 **Complete PowerPoint Slides Available at:** 
